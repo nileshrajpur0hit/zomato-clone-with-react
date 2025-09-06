@@ -1,0 +1,22 @@
+.navbar{
+    height: 72px;
+    width: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: end;
+
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: .5px;
+}
+
+.nav{
+    width: 45vw;
+    display: flex;
+    justify-content: space-evenly;
+}

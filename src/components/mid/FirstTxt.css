@@ -1,0 +1,16 @@
+ .text-ind{
+   margin: 2% 28%;
+    width: auto;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ }
+
+ .text-ind img{
+   height: 35px;
+ }
+
+ .text-ind p{
+   font-size: 3vw;
+ }

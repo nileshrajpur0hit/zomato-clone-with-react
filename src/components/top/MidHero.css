@@ -1,0 +1,39 @@
+.hero-content{
+    height: calc(90vh - 72px);
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.zom-img{
+    width: 100%;
+    height: auto ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 3vh;
+}
+
+img{
+    height: 60px;
+}
+
+.hero-text{
+    height: auto;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.hero-text p{
+    height: auto;
+    width: 550px;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+
+}

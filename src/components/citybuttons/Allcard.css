@@ -1,0 +1,8 @@
+.alltabshere{
+    width: 90%;
+    margin: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-top: 10vh;
+}

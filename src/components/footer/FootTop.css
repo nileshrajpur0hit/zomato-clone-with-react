@@ -1,0 +1,47 @@
+.foottop{
+    padding-top: 30px;
+    height: 40px;
+    width: 80%;
+    margin: 0 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+.zomfootimg{
+    height: 28px;
+}
+
+.btnfootdiv{
+    display: flex;
+    gap: 10px;
+    
+}
+
+
+button{
+    gap: 4px;
+    height: 38px;
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(41, 40, 40);
+    background-color: transparent;
+    display: flex;
+    padding: 3px 7px;
+    border-radius: 5px;
+    border: .2px solid rgba(128, 128, 128, 0.534);
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.fa-v{
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.btn1 img{
+    height:20px ;
+}

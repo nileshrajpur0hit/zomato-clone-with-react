@@ -1,0 +1,20 @@
+
+.card-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 340px;
+    margin: 10px 0;
+    padding: 24px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: .2px solid rgba(139, 137, 137, 0.226);
+}
+
+.restaurant{
+    font-size: 20px;
+}
+
+.card-div:hover{
+     box-shadow: 0px 5px 10px -5px rgba(173, 173, 173, 0.329);
+}

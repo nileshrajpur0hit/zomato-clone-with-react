@@ -1,0 +1,11 @@
+.title-info{
+    padding: 25px 0;
+    margin: 0 10%;
+}
+
+.title-info p{
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+    color: #696969;
+}

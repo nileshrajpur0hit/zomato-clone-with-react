@@ -1,0 +1,22 @@
+.midtags{
+    height: auto;
+    margin: 0 10%;
+    display: flex;
+    
+}
+
+
+.midtabsdiv{
+    border: 2px solid black;
+    height: auto;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+ 
